@@ -1,0 +1,29 @@
+h2{
+    color:rgb(4, 1, 16);
+    background-color: rgb(118, 166, 213);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    border: 2px;
+   border-color: brown;
+}
+button{
+    color: orangered;
+}
+header{
+    background-color: rgb(101, 184, 248);
+    padding: 5px;
+    display: flex;
+}
+footer{
+    background-color: rgb(101, 184, 248);
+    padding: 5px;
+}
+font{
+    text: size 25px;;
+}
+u:hover {
+    background-color: rgb(67, 67, 64);
+  }
+  

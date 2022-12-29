@@ -1,0 +1,14 @@
+div{
+    background-color: aquamarine;
+    position: sticky;
+    top:10px;
+    font-family: 'Satisfy', cursive;
+    /* font-family: 'Rubik Storm', cursive; */
+    /* font-family: 'IBM Plex Sans Arabic', sans-serif; */
+}
+#p1{
+    font-family: 'Sevillana', cursive;
+}
+/* p{
+    background-color: rgb(176, 149, 201);
+} */

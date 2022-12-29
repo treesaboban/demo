@@ -1,0 +1,78 @@
+h1{
+    color: #1b0250;
+    text-shadow: 5px 8px 7px rgb(65, 93, 234);
+    text-decoration: underline;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    justify-content: center;
+    padding-left: 10%;
+    display: inline-block;
+    
+}
+
+.common{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(150, 194, 238);
+    /* border: 9px solid #1b1a1a; */
+    /* border: 9px dotted #1b1a1a; */
+    /* border: 5px dashed #1b1a1a; */
+    /* border: 5px double #1b1a1a; */
+    /* border: 9px ridge #1b1a1a; */
+    border: 5px inset #1b1a1a;
+    /* border: 5px outset #1b1a1a; */
+    /* border: 6px groove #1b1a1a; */
+    border-radius: 50px 30px 40px;
+    /* border-radius: 50%;circle  */
+    /* padding: 50px 60px; */
+   margin-left: 50px;
+   margin: 10px;
+   margin-right: 40px;
+    float: left;
+    box-shadow: 10px 10px rgb(3, 38, 50);
+}
+#one{
+    margin-left: 200px;
+    float: left;
+}
+header{
+    background-color: rgb(33, 2, 119);
+    color: beige;
+    padding: 20px;
+}
+p{
+    text-align: center;
+    margin-left:5px;
+    margin-right: 5px;
+}
+footer {
+    /* position: fixed; */
+    /* padding: 10px 10px 0px 10px; */
+    bottom: 0;
+    /* width: 100%; */ 
+    /* Height of the footer*/
+    /* height: 40px; */
+    background-color: rgb(33, 2, 119);
+    /* margin-left: 50px; */
+   margin: 5px;
+   /* margin-right: 40px; */
+   padding: 20px;
+}
+font{
+    text: size 25px;;
+}
+#grad1 {
+    height: 1200px;
+    /* background-color: rgba(255, 0, 0, 0.882); For browsers that do not support gradients */
+    background-image: linear-gradient(rgb(255, 98, 0), rgb(255, 238, 0));
+  }

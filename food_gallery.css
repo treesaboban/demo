@@ -1,0 +1,121 @@
+.header
+{
+    width:100%;
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    text-decoration-color: beige;
+}
+.container{
+    width:100%;
+    height: 1000;
+    background-color: rgb(20, 87, 153);
+    /* border: 9px solid #1b1a1a; */
+    /* border: 9px dotted #1b1a1a; */
+    /* border: 5px dashed #1b1a1a; */
+    /* border: 5px double #1b1a1a; */
+    /* border: 9px ridge #1b1a1a; */
+    /* border: 5px inset #1b1a1a; */
+    /* border: 5px outset #1b1a1a; */
+    /* border: 6px groove #1b1a1a; */
+    /* border-radius: 50px ; */
+    /* border-radius: 50%;circle  */
+    /* padding: 50px 60px; */
+   /* margin-left: 50px; */
+   /* margin: 10px; */
+   /* margin-right: 40px; */
+}
+.col{
+    background-color: rgb(139, 139, 243);
+    width: 400px;
+    height: 500px;
+    margin:10px;
+    float:left;
+    padding: 40px;
+}
+.col2{
+    width: 200px;
+  height: 200px;
+  
+}
+h2{
+    color: goldenrod;
+    justify-content: end;
+    font-family: 'Lobster', cursive;
+    
+}
+h3{
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:50px;
+    display: inline-block;
+    margin-top: 25px;
+    cursor: pointer;
+    /* justify-content: right; */
+}
+.common{
+    width: 314px;
+    height: 650px;
+    background-color: rgb(244, 184, 32);
+    /* border: 9px solid #1b1a1a; */
+    /* border: 9px dotted #1b1a1a; */
+    /* border: 5px dashed #1b1a1a; */
+    /* border: 5px double #1b1a1a; */
+    /* border: 9px ridge #1b1a1a; */
+    border: 5px ridge #060606;
+    /* border: 5px outset #1b1a1a; */
+    /* border: 6px groove #1b1a1a; */
+    border-radius: 50px 30px ;
+    /* border-radius: 50%;circle  */
+    /* padding: 50px 60px; */
+   margin-left: 50px;
+   margin: 10px;
+   margin-right: 40px;
+    float: left;
+    box-shadow: 10px 10px rgb(196, 202, 204);
+
+}
+.iframe1{
+ width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  position: relative;
+  /* justify-content: center; */
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    justify-content: center;
+    padding-left: 10%;
+    display: inline-block;  
+}
+b{
+    justify-content: center;
+    margin:50px;
+}
+iframe + div {
+    display: none;
+}
+ 
+iframe:hover + div {
+    display: block;
+    color: rgb(13, 14, 13);
+    font-size: 25px;
+    top:-10px;
+}
+p{
+    font-size: medium;
+    color: #0c0321;
+    text-shadow: 5px 8px 7px rgb(4, 17, 86);
+    margin-left:5px;
+    margin-right: 5px;
+    top:-10px;
+    text-align: center;
+}
+.sp{
+    width: 50%;
+    height: 400px;
+}
